@@ -5,3 +5,6 @@ http://localhost/consumer/payment/create?serial=121431
 
 #discoveryClient
 http://localhost:8002/payment/discovery
+
+# consul
+http://localhost:8006/payment/consul
